@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://subrotoasg.github.io/ip-exam/sitemap.xml
